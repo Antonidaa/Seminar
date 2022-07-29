@@ -35,4 +35,5 @@ git log --graph --all
 ```
 git merge branch_name
 ```
+New line
 
